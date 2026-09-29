@@ -21,12 +21,13 @@ import {
   MapPin,
   X,
 } from "lucide-react";
+import { ServiziStudio } from "./ServiziStudio";
 
 // ─────────────────────────────────────────────────────────────
 // Build constants (v2.0)
 // ─────────────────────────────────────────────────────────────
-const APP_VERSION = "2.0";
-const BUILD_DATE_LABEL = "23/09/2026";
+const APP_VERSION = "2.1";
+const BUILD_DATE_LABEL = "29/09/2026";
 const BRAND = "Studio CAI";
 const LOGO_URL = "/logo.jpg";
 
@@ -505,6 +506,8 @@ export default function ModuloDetrazioniFiscali() {
           )}
         </motion.div>
       </main>
+
+      <ServiziStudio />
 
       <footer className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 py-8">
         <div className="bg-white/70 backdrop-blur rounded-2xl ring-1 ring-neutral-200 p-4 sm:p-5">

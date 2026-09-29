@@ -2,6 +2,10 @@
 
 Tutte le modifiche importanti al progetto saranno documentate in questo file.
 
+## v2.1 – 29/09/2026
+
+- Fascia "Ti serve altro?" in fondo alla pagina (`src/ServiziStudio.js`, identico in Segnalazioni, Deleghe, Anagrafe e Detrazioni): pulsanti Tutti i servizi (https://studio-cai-portali.vercel.app/), Assistente virtuale (https://studio-cai-chatbot.vercel.app/) e Numeri utili (pagina del portale), con telefono ed email dello studio chiamabili con un tocco.
+
 ## [2.0] - 2026-09-23
 
 Nuova grafica nello stile di Studio CAI. **Nessuna modifica lato dati**: stessi campi, stesse validazioni, stessi nomi nel payload, stesso webhook Make.com e stesso formato JSON, stesso ordine dei passaggi, ricarica della pagina 3 secondi dopo l'invio riuscito.
