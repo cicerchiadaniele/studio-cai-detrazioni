@@ -26,7 +26,7 @@ import { ServiziStudio } from "./ServiziStudio";
 // ─────────────────────────────────────────────────────────────
 // Build constants (v2.0)
 // ─────────────────────────────────────────────────────────────
-const APP_VERSION = "2.1";
+const APP_VERSION = "2.1.1";
 const BUILD_DATE_LABEL = "29/09/2026";
 const BRAND = "Studio CAI";
 const LOGO_URL = "/logo.jpg";

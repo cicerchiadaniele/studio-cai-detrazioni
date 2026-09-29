@@ -2,6 +2,10 @@
 
 Tutte le modifiche importanti al progetto saranno documentate in questo file.
 
+## v2.1.1 – 29/09/2026
+
+- Fascia "Ti serve altro?": il pulsante dell'assistente diventa "Claudio – L'assistente virtuale dello Studio CAI".
+
 ## v2.1 – 29/09/2026
 
 - Fascia "Ti serve altro?" in fondo alla pagina (`src/ServiziStudio.js`, identico in Segnalazioni, Deleghe, Anagrafe e Detrazioni): pulsanti Tutti i servizi (https://studio-cai-portali.vercel.app/), Assistente virtuale (https://studio-cai-chatbot.vercel.app/) e Numeri utili (pagina del portale), con telefono ed email dello studio chiamabili con un tocco.
